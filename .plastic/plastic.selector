@@ -1,0 +1,4 @@
+repository "FPS demo@xiaoge2@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
